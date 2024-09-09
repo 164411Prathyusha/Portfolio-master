@@ -27,3 +27,9 @@ yarn-error.log*
 
 Server/node_modules
 Server/config.js
+
+# amplify
+node_modules
+.amplify
+amplify_outputs*
+amplifyconfiguration*
